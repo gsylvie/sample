@@ -73,7 +73,7 @@
     "loglevel": "^1.7.1",
     "mapbox-gl": "2.2.0",
     "mapbox-gl-controls": "^2.3.0",
-    "marked": "^2.1.1",
+    "marked": "^4.0.10",
     "memoize-one": "^5.1.1",
     "mergexml": "^1.2.1",
     "moment-range": "^4.0.2",
