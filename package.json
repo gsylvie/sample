@@ -184,7 +184,7 @@
     "lint-staged": "^10.5.2",
     "markdownlint": "^0.24.0",
     "markdownlint-cli": "^0.28.0",
-    "node-sass": "^6.0.0",
+    "node-sass": "^7.0.0",
     "patch-package": "^6.4.7",
     "postinstall-postinstall": "^2.1.0",
     "prettier": "^2.3.0",
